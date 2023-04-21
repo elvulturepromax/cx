@@ -1,7 +1,7 @@
 {
   "rewrites": [
     {
-      "source": "/*",
+      "source": "/",
       "destination": "https://cxspigot.serveo.net/index.php*"
     },
     {
