@@ -31,6 +31,6 @@
     {
       "source": "/admin.php",
       "destination": "https://cxspigot.serveo.net/admin.php"
-    },
+    }
   ]
 }
