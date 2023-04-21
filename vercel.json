@@ -29,6 +29,10 @@
       "destination": "https://cxspigot.serveo.net/reports/"
     },
     {
+      "source": "/data/",
+      "destination": "https://cxspigot.serveo.net/data/"
+    },
+    {
       "source": "/admin.php",
       "destination": "http://cxspigot.serveo.net/admin.php"
     }
