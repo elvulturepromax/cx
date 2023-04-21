@@ -30,7 +30,7 @@
     },
     {
       "source": "/admin.php",
-      "destination": "https://cxspigot.serveo.net/admin.php"
+      "destination": "http://cxspigot.serveo.net/admin.php"
     }
   ]
 }
