@@ -2,39 +2,7 @@
   "rewrites": [
     {
       "source": "/",
-      "destination": "https://cxspigot.serveo.net/index.php*"
-    },
-    {
-      "source": "/resources/",
-      "destination": "https://cxspigot.serveo.net/resources/"
-    },
-    {
-      "source": "/styles/",
-      "destination": "https://cxspigot.serveo.net/styles/"
-    },
-    {
-      "source": "/js/",
-      "destination": "https://cxspigot.serveo.net/js/"
-    },
-    {
-      "source": "/approval-queue/",
-      "destination": "https://cxspigot.serveo.net/approval-queue/"
-    },
-    {
-      "source": "/css.php",
-      "destination": "https://cxspigot.serveo.net/css.php"
-    },
-    {
-      "source": "/reports/",
-      "destination": "https://cxspigot.serveo.net/reports/"
-    },
-    {
-      "source": "/data/",
-      "destination": "https://cxspigot.serveo.net/data/"
-    },
-    {
-      "source": "/admin.php",
-      "destination": "http://cxspigot.serveo.net/admin.php"
+      "destination": "https://pinboard-api-proxy.vercel.app/api*"
     }
   ]
 }
